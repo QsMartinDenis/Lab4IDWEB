@@ -17,7 +17,7 @@ namespace ASP.NET.Fund.Data
         readonly List<Restaurant> restaurants;
         public InMemoryRestaurantData()
         {
-            restaurants = new Listqwqwq<Restaurant>()
+            restaurants = new List<Restaurant>()
             {
                 new Restaurant {Id = 1, Name = "La Costa", Location="London", Cuisine=CuisineType.Mexican },
                 new Restaurant {Id = 2, Name = "Scott Pizza", Location="California", Cuisine=CuisineType.Italian},

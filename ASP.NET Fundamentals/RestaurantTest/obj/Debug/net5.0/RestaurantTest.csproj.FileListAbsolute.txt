@@ -9,7 +9,6 @@ C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\RestaurantTest\bi
 C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\RestaurantTest\bin\Debug\net5.0\RestaurantTest.runtimeconfig.json
 C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\RestaurantTest\bin\Debug\net5.0\RestaurantTest.runtimeconfig.dev.json
 C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\RestaurantTest\bin\Debug\net5.0\RestaurantTest.dll
-C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\RestaurantTest\bin\Debug\net5.0\ref\RestaurantTest.dll
 C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\RestaurantTest\bin\Debug\net5.0\RestaurantTest.pdb
 C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\RestaurantTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\RestaurantTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
@@ -103,3 +102,4 @@ C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\RestaurantTest\ob
 C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\RestaurantTest\obj\Debug\net5.0\ref\RestaurantTest.dll
 C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\RestaurantTest\obj\Debug\net5.0\RestaurantTest.pdb
 C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\RestaurantTest\obj\Debug\net5.0\RestaurantTest.genruntimeconfig.cache
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\RestaurantTest\obj\Debug\net5.0\refint\RestaurantTest.dll
