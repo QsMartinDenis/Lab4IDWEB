@@ -1,0 +1,90 @@
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.exe
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.deps.json
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.runtimeconfig.json
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.runtimeconfig.dev.json
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.dll
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.pdb
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.Views.dll
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.Views.pdb
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorAssemblyInfo.cache
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorAssemblyInfo.cs
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Fundamentals.StaticWebAssets.Manifest.cache
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Fundamentals.StaticWebAssets.xml
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP.NET Fundamentals.styles.css
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.TagHelpers.input.cache
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.TagHelpers.output.cache
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorCoreGenerate.cache
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorTargetAssemblyInfo.cache
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorTargetAssemblyInfo.cs
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.Views.pdb
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.dll
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.pdb
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.genruntimeconfig.cache
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.csproj.CopyComplete
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Core.dll
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Data.dll
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Data.pdb
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Core.pdb
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\WebProject\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.exe
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.deps.json
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.runtimeconfig.json
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.runtimeconfig.dev.json
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.dll
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.pdb
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.Views.dll
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET Fundamentals.Views.pdb
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Core.dll
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Data.dll
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Data.pdb
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\bin\Debug\netcoreapp3.1\ASP.NET.Fund.Core.pdb
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorAssemblyInfo.cache
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorAssemblyInfo.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Fundamentals.StaticWebAssets.Manifest.cache
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Fundamentals.StaticWebAssets.xml
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP.NET Fundamentals.styles.css
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.TagHelpers.input.cache
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.TagHelpers.output.cache
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorCoreGenerate.cache
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorTargetAssemblyInfo.cache
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.RazorTargetAssemblyInfo.cs
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.Views.pdb
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.csproj.CopyComplete
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.dll
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.pdb
+C:\Users\denis\OneDrive\Desktop\Lab4idweb\ASP.NET Fundamentals\ASP.NET Fundamentals\obj\Debug\netcoreapp3.1\ASP.NET Fundamentals.genruntimeconfig.cache

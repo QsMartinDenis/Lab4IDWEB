@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQcB1SB5HesKDYtL2QpSu5+geR0YfrfCAYxPkXv4oTaE/VRo9GNzhD3HLJFvuyFDIn7m9qmMfJiN59/XsjgNLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denis\\OneDrive\\Desktop\\Lab4idweb\\ASP.NET Fundamentals\\ASP.NET Fundamentals\\ASP.NET Fundamentals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denis\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
