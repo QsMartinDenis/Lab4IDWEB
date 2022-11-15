@@ -1,0 +1,42 @@
+﻿@page
+@model ASP.NET_Fundamentals.Pages.Restaurants.ListModel
+@{
+}
+
+<h1>Restaurant</h1>
+
+
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" 
+                   asp-for="SearchTerm"/>
+            <span class="input-group">
+                <button class="btn btn-outline-dark">Search</button>
+            </span>
+        </div>
+    </div>
+</form>
+
+
+<table class="table">
+    @foreach (var restaurant in Model.Restaurants)
+    {
+        <tr>
+            <td>@restaurant.Name</td>
+            <td>@restaurant.Location</td>
+            <td>@restaurant.Cuisine</td>
+            <td>
+                <a asp-page="./Detail"
+                   asp-route-restaurantId="@restaurant.Id">
+                   <i class="bi bi-search-heart-fill">a</i>
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+
+
+
+
+
