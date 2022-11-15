@@ -5,9 +5,14 @@ VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.NET Fundamentals", "ASP.NET Fundamentals\ASP.NET Fundamentals.csproj", "{9CB6EA53-9E9F-45DD-A13F-19047A7A087A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET.Fund.Core", "ASP.NET.Fund.Core\ASP.NET.Fund.Core.csproj", "{8C13F03D-1DB2-40DC-A973-C285D107A9CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.NET.Fund.Core", "ASP.NET.Fund.Core\ASP.NET.Fund.Core.csproj", "{8C13F03D-1DB2-40DC-A973-C285D107A9CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET.Fund.Data", "ASP.NET.Fund.Data\ASP.NET.Fund.Data.csproj", "{22D50075-B740-4105-8A57-8F8E824BC47C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.NET.Fund.Data", "ASP.NET.Fund.Data\ASP.NET.Fund.Data.csproj", "{22D50075-B740-4105-8A57-8F8E824BC47C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantTest", "RestaurantTest\RestaurantTest.csproj", "{F9153358-BBC9-4293-B82D-9BDB9C2B2117}"
+	ProjectSection(ProjectDependencies) = postProject
+		{22D50075-B740-4105-8A57-8F8E824BC47C} = {22D50075-B740-4105-8A57-8F8E824BC47C}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +32,10 @@ Global
 		{22D50075-B740-4105-8A57-8F8E824BC47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22D50075-B740-4105-8A57-8F8E824BC47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22D50075-B740-4105-8A57-8F8E824BC47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9153358-BBC9-4293-B82D-9BDB9C2B2117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9153358-BBC9-4293-B82D-9BDB9C2B2117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9153358-BBC9-4293-B82D-9BDB9C2B2117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9153358-BBC9-4293-B82D-9BDB9C2B2117}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
